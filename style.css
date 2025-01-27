@@ -150,5 +150,7 @@ h1, h2, h3{
 .links{
   font-size: 1.3rem;
   border: 3px solid;
+  padding: 7px 8px;
+
 }
 }
