@@ -1,7 +1,4 @@
-body{
-  padding-left: 70px;
-  padding-right: 70px;
-}
+
 
 @font-face {
     font-family: 'oliver';
@@ -36,7 +33,7 @@ h3{
 
 .answerbuttons{
     text-align: center;   
-    word-spacing: 40px;
+    word-spacing: 20px;
 }
 
 .links{
@@ -132,7 +129,7 @@ h3{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 
@@ -140,17 +137,16 @@ h3{
 
 @media (max-width: 360px) {
 h1, h2, h3{
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 
 .cats{
-  max-width: 150px;
+  max-width: 200px;
 }
 
 .links{
   font-size: 1.3rem;
   border: 3px solid;
-  padding: 7px 8px;
-
 }
+
 }
